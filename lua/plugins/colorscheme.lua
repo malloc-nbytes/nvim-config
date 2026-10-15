@@ -1,9 +1,10 @@
 return {
   { "loctvl842/monokai-pro.nvim" },
+  { "blazkowolf/gruber-darker.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "monokai-pro",
+      colorscheme = "gruber-darker",
     },
   },
 }
